@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.myapplication.Model.Student;
+
 public class MainActivity extends AppCompatActivity {
 
     EditText etName, etPhone, etEmail;
